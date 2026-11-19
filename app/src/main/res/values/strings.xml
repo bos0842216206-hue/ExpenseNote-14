@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExpenseNote</string>
+    <string name="title_daily_expense">บันทึกค่าใช้จ่ายประจำวัน</string>
+    <string name="prompt_amount">โปรดใส่จำนวนเงิน (เป็นบาท)</string>
+    <string name="hint_amount">เช่น 100 หรือ 10.25</string>
+    <string name="label_description">รายละเอียด / หมายเหตุ</string>
+    <string name="hint_description">เช่น ค่าอาหารกลางวัน</string>
+    <string name="btn_save">บันทึก</string>
+    <string name="icon_wallet_desc">Wallet Icon</string>
+</resources>
